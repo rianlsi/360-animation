@@ -11,14 +11,14 @@
   "dependencies": {
     "react": "16.8.6",
     "react-dom": "16.8.6",
-    "react-scripts": "3.0.1",
+    "react-scripts": "^5.0.1",
     "react-scrollmagic": "2.1.1"
   },
   "devDependencies": {
     "typescript": "3.3.3"
   },
   "engines": {
-  "node": ">=20.0.0"
+    "node": ">=20.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -33,4 +33,3 @@
     "not op_mini all"
   ]
 }
-
